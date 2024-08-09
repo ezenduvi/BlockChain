@@ -1,4 +1,4 @@
-#Blockchain
+## Blockchain
 
 This project involves building a simple blockchain peer-to-peer network using concepts like UDP communication, synchronization, consensus mechanisms, messaging strategies, and state handling. 
 The goal is to create a blockchain where each block contains messages, a nonce, a hash with a specified difficulty level, and other relevant metadata.
